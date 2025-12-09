@@ -1,0 +1,14 @@
+{
+  "homepage": {
+    "title": "Welcome to My Site",
+    "hello": "Hello World!",
+    "link_about": "about us"
+  },
+  "footer": {
+    "contact": "Contact Us"
+  },
+  "about": {
+    "title": "About Us",
+    "link_back": "back"
+  }
+}

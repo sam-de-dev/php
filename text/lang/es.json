@@ -1,0 +1,14 @@
+{
+  "homepage": {
+    "title": "Bienvenido a Mi Sitio",
+    "hello": "¡Hola Mundo!",
+    "link_about": "Sobre Nosotros"
+  },
+  "footer": {
+    "contact": "Contáctanos"
+  },
+  "about": {
+    "title": "Sobre Nosotros",
+    "link_back": "atrás"
+  }
+}
